@@ -1,9 +1,9 @@
 [
-  {
-    "name": "Colombia",
-    "iso2": "CO",
-    "dialCode": "+57",
-    "priority": 1,
-    "areaCodes": null,
-  }
+   {
+      "name":"Colombia",
+      "iso2":"CO",
+      "dialCode":"+57",
+      "priority":1,
+      "areaCodes":null
+   }
 ]
