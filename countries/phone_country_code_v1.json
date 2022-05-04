@@ -4,6 +4,7 @@
       "iso2":"CO",
       "dialCode":"+57",
       "priority":1,
-      "areaCodes":null
+      "areaCodes":[],
+      "icon": "🇨🇴"
    }
 ]
