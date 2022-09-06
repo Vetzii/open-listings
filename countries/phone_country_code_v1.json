@@ -6,5 +6,13 @@
       "priority":1,
       "areaCodes":[],
       "icon": "🇨🇴"
+   },
+   {
+      "name":"Peru",
+      "iso2":"PE",
+      "dialCode":"+51",
+      "priority":1,
+      "areaCodes":[],
+      "icon": "🇵🇪"
    }
 ]
